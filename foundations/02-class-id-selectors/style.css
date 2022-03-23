@@ -1,0 +1,19 @@
+.odd {
+    background-color: #ffb6c1;
+    font: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.secondP {
+    font-size: 24px;
+}
+
+#divOne {
+    color: blue;
+    font-size: 36px;
+}
+
+#divTwo {
+    background-color: #20b2aa;
+    font-size: 24px;
+    font-weight: bold;
+}
